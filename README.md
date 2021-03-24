@@ -1,5 +1,5 @@
 # Rinux1
-## 운영체제
+### 운영체제
 #### 1. 기본적인 하드웨어
 - CPU(Central Processing Unit)
   - 프로그램 연산을 통제하는 중앙 처리 장치

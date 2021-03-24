@@ -70,8 +70,13 @@
    - 하나의 컴퓨터로 여러대 컴퓨터의 효과를 낼 수 있음
    - 비용 절감
    - 유연성
-      - 관리(설치, 삭제, 변형)에 대한 적은 부담
-      - 문제 사항에 대한 해결 
+     - 관리(설치, 삭제, 변형)에 대한 적은 부담
+     - 문제 사항에 대한 해결
+  ![image](https://user-images.githubusercontent.com/78472987/112277794-71c34280-8cc5-11eb-8c83-816e82b09eea.png)
+ - 가상화 도구의 예시
+   - VMware : Hypervisor기반 가상머신
+   - VirtualBox : Hypervisor기반 가상머신
+   - Docker : 컨테이너 기반 가상머신, 운영체제 설치 불가능
 
 
 
